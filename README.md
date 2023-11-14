@@ -15,12 +15,12 @@ This is a simple Integration with AmoCRM
 ```bash
 docker-compose up -d
 ```
-1. Start
+2. Start
 ```bash
 composer update
 ```
-1. In php container exec 
+3. In php container exec 
 ```bash
 php /usr/share/nginx/html/init.php
 ```
-1. After you need create integration in AmoCRM and fill config.php
+4. After you need create integration in AmoCRM and fill config.php
