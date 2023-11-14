@@ -1,0 +1,8 @@
+{
+    "require": {
+        "amocrm/amocrm-api-library": "*"
+    },
+    "autoload": {
+        "psr-4": {"Integration\\": ""}
+    }
+}
